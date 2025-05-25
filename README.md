@@ -1,4 +1,4 @@
-# 🌌 Star Wars – Gooner's Grail Duels **Welcome Message**
+# Star Wars – Gooner's Grail Duels **Welcome Message**
 *The Force is strong in this server...*
 
 Welcome to **Star Wars – Gooner's Grail Duels**, where lightsabers clash, honor matters, and duels are sacred. Join the fight, make friends, or free-for-all — just keep it respectful, padawan.
@@ -7,7 +7,7 @@ Welcome to **Star Wars – Gooner's Grail Duels**, where lightsabers clash, hono
 
 ---
 
-## 💬 **Join the Community**
+## **Join the Community**
 
 <a id="Gooner's Grail Discord">https://discord.gg/UUn9jZ4Cxv</>
 
@@ -15,7 +15,7 @@ Find community info, share your thoughts, make requests, and meet new Star Wars 
 
 ---
 
-### 📜 **Rules of the Server**
+### **Rules of the Server**
 
 1. **Don't be an ass**  
    Trash talk is okay — abuse and bullying are not. No prejudice or discrimination of any kind.
@@ -36,14 +36,4 @@ Find community info, share your thoughts, make requests, and meet new Star Wars 
 
 ---
 
-#### **Quick Guidelines Recap**
-
-* Bully? **No.**  
-* Trash talk? **Yes.**  
-* Random kill? **No.**  
-* Duel interruption? **No.**  
-* Jedi honor? **Absolutely.**
-
----
-
-***May the Force guide your blade.*** 🛡️⚔️
+***May the Force guide your blade.***
