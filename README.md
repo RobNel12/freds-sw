@@ -3,7 +3,7 @@
 
 Welcome to **Star Wars – Gooner's Grail Duels**, where lightsabers clash, honor matters, and duels are sacred. Join the fight or just make friends!
 
-![Server Banner](https://github.com/RobNel12/gooners-grail/blob/main/Logo.png?raw=true)
+![Server Banner](Logo.png)
 
 ---
 
