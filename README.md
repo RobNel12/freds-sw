@@ -1,8 +1,4 @@
-# ⭐ Fred's Fights STARWARS FFA + Duel Rules (Mordhau)
-
-Welcome to the **Star Wars Faction Free-For-All (FFA)** gamemode, where iconic galactic factions clash across the battlefield. Please follow these rules to ensure a fun and respectful experience for all players.
-
----
+# Fred's Fights STARWARS FFA + Duel Rules
 
 ## 👥 Player Count Rules
 - **< 8 Players:**  
