@@ -3,7 +3,7 @@
 ## Player Count Rules
 - **LESS THAN 8 Players:**  
   - Duels-only — no FFA.   
-  - *Flourish (press X+1) before each duel.*  
+  - Flourish (press X+1) before each duel.
   - Wait your turn — respect ongoing duels.  
   - Do not interfere, even if you are in a faction (Jedi, Sith, etc.).
 
