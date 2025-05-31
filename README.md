@@ -1,5 +1,5 @@
 # Fred's Fights! (STARWARS FFA/Duels) Rules
-
+![Fred's SW Logo](https://raw.githubusercontent.com/RobNel12/freds-sw/refs/heads/main/sw-logo.JPG)
 ## Player Count Rules
 - **LESS THAN 8 Players:**  
   - Duels-only — no FFA.   
