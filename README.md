@@ -1,4 +1,4 @@
-# Fred's Fights STARWARS FFA + Duel Rules
+# Fred's Fights! (STARWARS FFA/Duels) Rules
 
 ## Player Count Rules
 - **LESS THAN 8 Players:**  
