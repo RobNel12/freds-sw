@@ -32,7 +32,7 @@
 
 - Feel free to **team up within your faction** for coordinated FFA.
 - Be willing to go against the grain.
-  - EXAMPLE: If everyone is a droid, and they're gaming the rest of the server, organize a clone or Jedi army!
+  - EXAMPLE: If everyone is a droid, and they're ganking the rest of the server, organize a clone or Jedi army!
 
 ---
 
