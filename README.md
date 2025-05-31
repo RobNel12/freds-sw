@@ -2,15 +2,15 @@
 
 ## Player Count Rules
 - **LESS THAN 8 Players:**  
-  ➤ Duels-only — no FFA.   
-  ➤ *Flourish (press X+1) before each duel.*  
-  ➤ Wait your turn — respect ongoing duels.  
-  ➤ Do not interfere, even if you are in a faction (Jedi, Sith, etc.).
+  - Duels-only — no FFA.   
+  - *Flourish (press X+1) before each duel.*  
+  - Wait your turn — respect ongoing duels.  
+  - Do not interfere, even if you are in a faction (Jedi, Sith, etc.).
 
 - **8 Players OR MORE:**  
-  ➤ FFA is permitted *only* in the main areas of the map.  
-  ➤ Duel zones are still reserved for 1v1s and must remain free of FFA.  
-  ➤ Enter duel zones only if you intend to 1v1 and flourish first.
+  - FFA is permitted *only* in the main areas of the map.  
+  - Duel zones are still reserved for 1v1s and must remain free of FFA.  
+  - Enter duel zones only if you intend to 1v1 and flourish first.
 
 ---
 
