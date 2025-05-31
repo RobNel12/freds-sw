@@ -43,5 +43,5 @@
 ---
 
 
-## 🌌 Final Note
+## Final Note
 This is a themed server meant to celebrate *Star Wars* and encourage creative roleplay within combat. Play fair, respect others, and **may the Force be with you.**
