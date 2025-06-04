@@ -26,6 +26,7 @@ Players are encouraged to fight in **faction-themed teams** in FFA areas:
 - **SITH:** Red lightsabers
 - **JEDI:** All other sabers (except the Darksaber!!)
 - **NEUTRAL:** Darksaber, any other weapon
+(Note: Weapons with a colored glow such as the Voulge are considered "sabers" for the purposes of the server.)
 
 **DO NOT TEAM SWITCH:** If you're a sith and lose your saber, but pick up a jedi color, you're still a sith! You are encouraged to DRESS ACCORDINGLY to make identification easier. REACQUIRE YOUR WEAPON ASAP!
 
