@@ -23,9 +23,9 @@
 
 ## Faction Gameplay Guidelines
 Players are encouraged to fight in **faction-themed teams** in FFA areas:
-  - **SITH:** Red lightsabers
-  - **JEDI:** All other sabers (except the Darksaber!!)
-  - **NEUTRAL:** Darksaber, any other weapon
+- **SITH:** Red lightsabers
+- **JEDI:** All other sabers (except the Darksaber!!)
+- **NEUTRAL:** Darksaber, any other weapon
 
 **DO NOT TEAM SWITCH:** If you're a sith and lose your saber, but pick up a jedi color, you're still a sith! You are encouraged to DRESS ACCORDINGLY to make identification easier.
 
