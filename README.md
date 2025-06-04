@@ -27,7 +27,7 @@ Players are encouraged to fight in **faction-themed teams** in FFA areas:
 - **JEDI:** All other sabers (except the Darksaber!!)
 - **NEUTRAL:** Darksaber, any other weapon
 
-**DO NOT TEAM SWITCH:** If you're a sith and lose your saber, but pick up a jedi color, you're still a sith! You are encouraged to DRESS ACCORDINGLY to make identification easier.
+**DO NOT TEAM SWITCH:** If you're a sith and lose your saber, but pick up a jedi color, you're still a sith! You are encouraged to DRESS ACCORDINGLY to make identification easier. REACQUIRE YOUR WEAPON ASAP!
 
 Feel free to **team up within your faction** for coordinated FFA.
 Be willing to go against the grain.
