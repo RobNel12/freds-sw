@@ -1,4 +1,4 @@
-# Fred's Fights! (STARWARS FFA/Duels) Rules
+# Fred's Fights! (STARWARS FFA/Duels) Rules - MUST READ
 ## Player Count Rules
 **LESS THAN 8 Players:**  
   - Duels-only — no FFA.   
@@ -7,7 +7,7 @@
   - Do not interfere, even if you are in a faction (Jedi, Sith, etc.).
 
 **8 Players OR MORE:**  
-  - FFA is permitted *only* in the main areas of the map.  
+  - FFA is permitted everywhere *except* duel zones (defined by tp duel/duel2/etc.)
   - Duel zones are still reserved for 1v1s and must remain free of FFA.  
   - Enter duel zones only if you intend to 1v1 and flourish first.
 
@@ -23,11 +23,11 @@
 
 ## Faction Gameplay Guidelines
 Players are encouraged to fight in **faction-themed teams** in FFA areas:
-  - **CIS (Droids)** - Droid skins
-  - **Sith** – Red lightsabers, black/red armor optional.
-  - **Jedi** – Any other saber color (blue, green, purple, etc.), light/brown robes and armor optional.
-  - **Clones** – Clone helmet + stormtrooper armor
-  - **Stormtroopers** – Stormtrooper helmets + armor
+  - **SITH:** Red lightsabers
+  - **JEDI:** All other sabers (except the Darksaber!!)
+  - **NEUTRAL:** Darksaber, any other weapon
+
+**DO NOT TEAM SWITCH:** If you're a sith and lose your saber, but pick up a jedi color, you're still a sith! You are encouraged to DRESS ACCORDINGLY to make identification easier.
 
 Feel free to **team up within your faction** for coordinated FFA.
 Be willing to go against the grain.
