@@ -12,7 +12,6 @@ Custom loadouts are expected. You’re here to fight and look cool doing it.
 - This is a **duel-only server by default**.
 - **Flourish (X + 1)** before any duel — no exceptions.
 - Wait your turn. Don’t third-party. Don’t loiter near an active duel.
-- Duels can happen anywhere, but **duel zones are preferred** for clean fights.
 - Interrupting duels or ganking = warning or ban.
 
 ---
