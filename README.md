@@ -1,10 +1,5 @@
 # Fred's Fights! (STAR WARS FFA/Duels) Rules – MUST READ
-
-## Core Concept
-This is a **duel-first Star Wars server** with separate **FFA zones** for when you want chaos.  
-**Duels come first** — respectful 1v1s are the core of this server.  
-**Faction play is encouraged in FFA**, but not required.  
-Custom loadouts are expected. You’re here to fight and look cool doing it.
+**Custom loadouts are expected (but not required). You’re here to fight and look cool doing it.**
 
 ---
 
@@ -17,21 +12,19 @@ Custom loadouts are expected. You’re here to fight and look cool doing it.
 ---
 
 ## FFA ZONES
-- Specific areas are marked for **FFA** (teleporters or map-marked).
+- Specific areas are marked for **FFA** (tp ffa/ffa2/etc.).
 - **FFA zones = Kill on Sight** (Faction-teaming is encouraged)
+
 ---
 
 ## FACTIONS (FFA ONLY)
-
-Factions are **optional** in FFA
-
 In FFA zones, you may **optionally** follow this faction system:
 
 - **SITH** – Red lightsabers only  
 - **JEDI** – Blue, purple, green lightsabers  
 - **NEUTRAL** – All other saber colors (yellow, white, etc.), the Darksaber, or any non-saber weapon.
 
-> Yes, weapons like the Voulge with glowing blades count as sabers depending on the chosen color.
+> Yes, weapons like the Voulge with glowing blades count as "sabers" depending on the chosen color.
 
 **Dress however you want**, but faction-themed outfits are encouraged in FFA. Makes it easier to identify who's who — and it just looks cool.
 
