@@ -1,49 +1,51 @@
-# Fred's Fights! (STARWARS FFA/Duels) Rules - MUST READ
-## Player Count Rules
-**LESS THAN 8 Players:**  
-  - Duels-only — no FFA.   
-  - Flourish (press X+1) before each duel.
-  - Wait your turn — respect ongoing duels.  
-  - Do not interfere, even if you are in a faction (Jedi, Sith, etc.).
+# Fred's Fights! (STAR WARS FFA/Duels) Rules – MUST READ
 
-**8 Players OR MORE:**  
-  - FFA is permitted everywhere *except* duel zones (defined by tp duel/duel2/etc.)
-  - Duel zones are still reserved for 1v1s and must remain free of FFA.  
-  - Enter duel zones only if you intend to 1v1 and flourish first.
+## Core Concept
+This is a **duel-first Star Wars server** with separate **FFA zones** for when you want chaos.  
+**Duels come first** — respectful 1v1s are the core of this server.  
+**Faction play is encouraged in FFA**, but not required.  
+Custom loadouts are expected. You’re here to fight and look cool doing it.
 
 ---
 
-## Duel Zone Etiquette
-- Use teleports to access duel arenas.
-- Always **flourish (X+1)** before engaging in a duel.
-- Do not attack anyone inside duel zones unless a duel has been initiated.
-- Killing or harassing duelists in these zones will result in a warning or ban.
+## DUELS (Default Gameplay)
+- This is a **duel-only server by default**.
+- **Flourish (X + 1)** before any duel — no exceptions.
+- Wait your turn. Don’t third-party. Don’t loiter near an active duel.
+- Duels can happen anywhere, but **duel zones are preferred** for clean fights.
+- Interrupting duels or ganking = warning or ban.
 
 ---
 
-## Faction Gameplay Guidelines
-Players are encouraged to fight in **faction-themed teams** in FFA areas:
-- **SITH:** Red lightsabers
-- **JEDI:** All other sabers (except the Darksaber!!)
-- **NEUTRAL:** Darksaber, any other weapon
-(Note: Weapons with a colored glow such as the Voulge are considered "sabers" for the purposes of the server.)
+## FFA ZONES
+- Specific areas are marked for **FFA** (teleporters or map-marked).
+- **FFA zones = Kill on Sight** (Faction-teaming is encouraged)
+---
 
-**DO NOT TEAM SWITCH:** If you're a sith and lose your saber, but pick up a jedi color, you're still a sith! You are encouraged to DRESS ACCORDINGLY to make identification easier. REACQUIRE YOUR WEAPON ASAP!
+## FACTIONS (FFA ONLY)
 
-Feel free to **team up within your faction** for coordinated FFA.
-Be willing to go against the grain.
-  - EXAMPLE: If everyone is a droid, and they're ganking the rest of the server, organize a clone or Jedi army!
+Factions are **optional** in FFA
+
+In FFA zones, you may **optionally** follow this faction system:
+
+- **SITH** – Red lightsabers only  
+- **JEDI** – Blue, purple, green lightsabers  
+- **NEUTRAL** – All other saber colors (yellow, white, etc.), the Darksaber, or any non-saber weapon.
+
+> Yes, weapons like the Voulge with glowing blades count as sabers depending on the chosen color.
+
+**Dress however you want**, but faction-themed outfits are encouraged in FFA. Makes it easier to identify who's who — and it just looks cool.
 
 ---
 
-## Prohibited Behavior
-- No attacking in duel zones unless dueling.
-- No spawnkilling or camping teleports.
-- No intentional teamkilling or trolling your own faction/group
-- Toxic behavior, racism, slurs, and harassment will result in instant bans.
+## DON’TS
+- No fighting in duel zones unless you’re both flourished.
+- No spawnkilling or teleport camping.
+- No griefing your own faction in FFA.
+- No racism, slurs, or toxic behavior — **zero tolerance**.
 
 ---
 
-
-## Final Note
-This is a themed server meant to celebrate *Star Wars* and encourage creative roleplay within combat. Play fair, respect others, and **may the Force be with you.**
+## Final Word
+This is a **STAR WARS** server, so a little bit of light roleplay is ALWAYS welcome! PLAY YOUR PART!
+**May the Force be with you.**
